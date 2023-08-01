@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michealsoft02
+- 👋 Hi, I’m Micheal idowu 
 - 👀 I’m interested in Data analysis and Data science.
 - 🌱 I’m currently learning Excel, power BI and python.
 - 💞️ I’m looking to collaborate on a project 
